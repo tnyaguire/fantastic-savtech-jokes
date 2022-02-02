@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: chuck-norries-jokes-api
